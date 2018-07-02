@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1523318227 source:c:\users\sunny\code\cppcontest\testing\correct.cpp
+	"testrig.h"
+	<bits/stdc++.h>
+
+1523319342 c:\users\sunny\code\cppcontest\testing\testrig.h
+
+1523318232 source:c:\users\sunny\code\cppcontest\testing\tested.cpp
+	"testrig.h"
+	<bits/stdc++.h>
+
+1523319439 source:c:\users\sunny\code\cppcontest\testing\main.cpp
+	<bits/stdc++.h>
+	"testrig.h"
+	"correct.h"
+	"tested.h"
+
+1523318765 c:\users\sunny\code\cppcontest\testing\correct.h
+	"testrig.h"
+	<bits/stdc++.h>
+
+1523319341 c:\users\sunny\code\cppcontest\testing\tested.h
+	"testrig.h"
+	<bits/stdc++.h>
+

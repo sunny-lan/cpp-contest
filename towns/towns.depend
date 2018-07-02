@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1522020127 source:c:\users\sunny\code\cppcontest\towns\towns.cpp
+	"towns.h"
+	<bits/stdc++.h>
+
+1522004043 c:\users\sunny\code\cppcontest\towns\towns.h
+
+1522019691 source:c:\users\sunny\code\cppcontest\towns\main.cpp
+	"towns.h"
+	<assert.h>
+	<stdio.h>
+	<stdlib.h>
+	"graderlib.c"
+
+1522016963 c:\users\sunny\code\cppcontest\towns\graderlib.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
+1522016963 source:c:\users\sunny\code\cppcontest\towns\graderlib.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

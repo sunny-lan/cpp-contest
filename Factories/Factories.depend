@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1519955807 source:c:\users\sunny\code\cppcontest\grader.cpp
+	<stdio.h>
+	<assert.h>
+	<stdlib.h>
+	"factories.h"
+
+1519951713 c:\users\sunny\code\cppcontest\factories.h
+
+1519957018 source:c:\users\sunny\code\cppcontest\factories.cpp
+	<bits/stdc++.h>
+	"factories.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1521411581 source:c:\users\sunny\code\cppcontest\ioi17p4\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	"prize.h"
+
+1521342404 c:\users\sunny\code\cppcontest\ioi17p4\prize.h
+
+1521411538 source:c:\users\sunny\code\cppcontest\ioi17p4\prize.cpp
+	"prize.h"
+	<bits/stdc++.h>
+
